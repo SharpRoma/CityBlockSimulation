@@ -1,5 +1,5 @@
-# CityBlockSimulation
-Task was:
+# CityBlockSimulation.\
+Task was:.\
   Logic:
     1. The car has a fuel level. If it is low, the car goes to the gas station. If there is not enough time, it waits for the button to be pressed to refill the tank.
     2. If the car passes by the police, they randomly brake the car and then release it.
