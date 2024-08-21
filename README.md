@@ -19,4 +19,4 @@ Task was:\
     2. Windmills should rotate.\
   Developed on:\
   Unity 2022.3.12f1\
-  AI Navigation 1.1.5\
+  AI Navigation 1.1.5
